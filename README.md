@@ -51,7 +51,20 @@ https://github.com/dronebird?utf8=%E2%9C%93&q=oam&type=&language=
 1. 2018年の目標
 1. 我々のゴール
 1. Appendix/付録
+1. 連絡先
+* 正式名称
+* 法人登記住所、活動拠点住所
+* 公式ウェブサイト
+* 各種SNS
+ ** Facebook Page
+ ** Twitter
+ ** Instagram
+ ** YouTube
+ ** GitHub
+ ** G空間情報センター 
+ 
 
+---
 
-1. デザイン
+# デザイン
 
