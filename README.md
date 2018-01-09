@@ -47,6 +47,7 @@ https://github.com/dronebird?utf8=%E2%9C%93&q=oam&type=&language=
    1. メディア掲載
 
 1. 会計報告
+1. パートナー/ドナー
 1. 2018年の目標
 1. 我々のゴール
 1. Appendix/付録
