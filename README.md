@@ -19,7 +19,9 @@ State of the DRONEBIRD / IT'S TIME TO FLY WITH YOUR DRONE!!
 
 1. はじめに
 1. DRONEBIRD とは
-   1. 活動の歴史
+   1. Our Mission
+   1. SDGs/Society 5.0 としての位置付け
+   1. 活動の歴史
    1. メンバー紹介
    1. ドローン配備状況
 1. 代表的な活動紹介
